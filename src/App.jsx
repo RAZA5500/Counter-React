@@ -33,7 +33,7 @@ function App() {
         
         <div className="relative mb-14 w-full flex justify-center items-center">
           <div className="absolute inset-0 bg-white/5 blur-[50px] rounded-full w-32 h-32 m-auto"></div>
-          <span className="relative text-8xl font-medium tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-zinc-400 tabular-nums drop-shadow-md">
+          <span className="relative text-8xl font-medium tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-zinc-400 tabular-nums drop-shadow-md py-2">
             {count}
           </span>
         </div>
